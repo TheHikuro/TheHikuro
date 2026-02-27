@@ -64,8 +64,8 @@ technical_background:
     technologies: [ "Knifes", "Kitchen" ]
     years: "3"
 
-currently_learning: [ ".NET, Scala" ]
-2025 Goals: [ "Improve my skills and clean code in React and React Native", "Learn .NET and Scala", "Learn about Structure and Architecture of Web Applications" ]
+currently_learning: [ "TanStack Start" ]
+2026 Goals: [ "Improve my skills and clean code in React and React Native", "Learn about Structure and Architecture of Web Applications" ]
 hobbies: [ "Gaming", "Cinema", "Cars", "Cooking" ]
 ```
   
@@ -102,3 +102,4 @@ hobbies: [ "Gaming", "Cinema", "Cars", "Cooking" ]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Hikuro"/>
 </p>
+
