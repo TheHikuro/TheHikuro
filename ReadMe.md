@@ -41,35 +41,42 @@ fields_of_interests:
   - "UI/UX"
   - "DevOps"
   - "Versioning"
+  - "Configuration Management"
 
 technical_background:
   - company: "masana"
     position: "Frontend Developer"
-    technologies: [ "React", "React Native", "TypeScript", "Docker", "Gitlab CI", "cypress" ]
+    technologies:
+      ["React", "React Native", "TypeScript", "Docker", "Gitlab CI", "cypress"]
     years: "current"
   - company: "Orano & Framatome"
     position: "Frontend Developer"
-    technologies: [ "React", "React Native", "TypeScript" ]
+    technologies: ["React", "React Native", "TypeScript"]
     years: "3"
   - company: "Candriam"
     position: "Software Developer"
-    technologies: [ "Python", "VBA" ]
+    technologies: ["Python", "VBA"]
     years: "1"
   - company: "Cognacq-Jay"
     position: "Tech support and Developer"
-    technologies: [ "Powershell" ]
+    technologies: ["Powershell"]
     years: "1"
   - company: "TF1"
     position: "Cook"
-    technologies: [ "Knifes", "Kitchen" ]
+    technologies: ["Knifes", "Kitchen"]
     years: "3"
 
-currently_learning: [ "TanStack Start" ]
-2026 Goals: [ "Improve my skills and clean code in React and React Native", "Learn about Structure and Architecture of Web Applications" ]
-hobbies: [ "Gaming", "Cinema", "Cars", "Cooking" ]
+currently_learning: ["TanStack Start", "Golang", "Scala"]
+2026 Goals:
+  [
+    "Improve my skills and clean code in React and React Native",
+    "Learn about Structure and Architecture of Web Applications",
+    "Improve my knowledge in Backend Architecture",
+  ]
+hobbies: ["Gaming", "Cinema", "Cars", "Cooking"]
 ```
-  
----  
+
+---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -102,4 +109,3 @@ hobbies: [ "Gaming", "Cinema", "Cars", "Cooking" ]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Hikuro"/>
 </p>
-
